@@ -8,8 +8,6 @@ The project focuses on practical IAM administration including **role-based acces
 
 ## Architecture
 
-![Northstar Technologies IAM Lab Architecture](diagrams/northstar-lab-diagram.png)
-
 The environment was built locally in **VMware Workstation Pro** and consists of:
 
 | System | Purpose |
