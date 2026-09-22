@@ -1,0 +1,34 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# VMware virtual machine files
+*.vmx
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.lck
+
+# Environment / credential files
+.env
+.env.*
+*.key
+*.pem
+
+# PowerShell history / transcripts
+ConsoleHost_history.txt
+*transcript*.txt
+
+# Office temporary files
+~$*
